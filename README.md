@@ -7,7 +7,7 @@
 ## Built With
 
 - HTML5 elements
-  - `h1`, `div`, `button`, -`h2`, `feader`, `section`.
+  - `div`.
 
 ## Live Demo
 
@@ -65,7 +65,7 @@ yarn hint
 ## 👤 Author
 
 - Github: [@olayinka-oladele](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
+  Freecodecamp: [@olayinka-oladele](https://freecodecamp.com/author)
 - Linkedin: [@olayinka-oladele](https://www.linkedin.com/in/olayinka-oladele/)
 
 ## 🤝 Contributing
@@ -76,7 +76,7 @@ Feel free to check the [issues page](../../issues).
 
 ## Show your support
 
-Give a ⭐️⭐️⭐️⭐️⭐️⭐️ if you like this project!
+Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
