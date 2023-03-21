@@ -64,7 +64,7 @@ yarn hint
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
+- Github: [@olayinka-oladele](https://github.com/author)
 - Twitter: [@author](https://twitter.com/author)
 - Linkedin: [@olayinka-oladele](https://www.linkedin.com/in/olayinka-oladele/)
 
