@@ -1,35 +1,29 @@
-# Project Name
+# fcc cafe menu
 
-> One paragraph statement about the project.
+> Using HTML/CSS tags by building cafe menu.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description of the project and its features.
-
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5 elements
+  - `div`.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://cafemenu-oladele.netlify.app/)
 
 ### Development (Running locally)
 
-- Clone the project
+- git Clone git@github.com:olayinka-oladele/02-fcc-cafe-menu.git
 
-```bash
-git clone https://github.com/user/html-css-template.git
-
-```
+````
 
 - Install Dependencies
 
 ```bash
 yarn install
-```
+````
 
 To run StyleLint by itself, you may run the lint task:
 
@@ -70,9 +64,9 @@ yarn hint
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@olayinka-oladele](https://github.com/author)
+  Freecodecamp: [@olayinka-oladele](https://freecodecamp.com/author)
+- Linkedin: [@olayinka-oladele](https://www.linkedin.com/in/olayinka-oladele/)
 
 ## 🤝 Contributing
 
@@ -86,9 +80,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-91
 
 ## 📝 License
 
